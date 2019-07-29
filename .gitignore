@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 build
 .vscode
-=======
+
 # Prerequisites
 *.d
 
@@ -34,4 +34,4 @@ build
 *.exe
 *.out
 *.app
->>>>>>> 86fdac6b06528957c2b8efcdff274b3478dd5e1e
+
