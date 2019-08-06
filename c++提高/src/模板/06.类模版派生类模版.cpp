@@ -12,3 +12,9 @@ public:
 public:
     T mAge;
 };
+
+template<class T>
+class Cat:public Animal<T>
+{
+
+};
